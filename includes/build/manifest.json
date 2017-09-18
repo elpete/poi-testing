@@ -1,0 +1,9 @@
+{
+  "0.chunk.js": "/includes/build/0.chunk.js",
+  "1.chunk.js": "/includes/build/1.chunk.js",
+  "2.chunk.js": "/includes/build/2.chunk.js",
+  "3.chunk.js": "/includes/build/3.chunk.js",
+  "client.js": "/includes/build/client.js",
+  "manifest.js": "/includes/build/manifest.js",
+  "vendor.js": "/includes/build/vendor.js"
+}
